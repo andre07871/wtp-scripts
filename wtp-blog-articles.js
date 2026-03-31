@@ -21,7 +21,8 @@ if (document.getElementById('blog-container')) {
       '/page/clipping-path-service-custom-quote',
       '/page/terms-of-use',
       '/page/turntimes',
-      '/page/test'
+      '/page/test',
+      '/page/commercial-printing-business-tips'
     ]
   };
 
