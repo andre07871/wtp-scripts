@@ -22,7 +22,7 @@ if (document.getElementById('blog-container')) {
       '/page/terms-of-use',
       '/page/turntimes',
       '/page/test',
-      '/page/commercial-printing-business-tips'
+      '/page/commercial-printing-business-tips',
       '/page/CustomQuote-emailable',
     ]
   };
