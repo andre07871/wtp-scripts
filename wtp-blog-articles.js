@@ -23,6 +23,7 @@ if (document.getElementById('blog-container')) {
       '/page/turntimes',
       '/page/test',
       '/page/commercial-printing-business-tips'
+      '/page/CustomQuote-emailable',
     ]
   };
 
